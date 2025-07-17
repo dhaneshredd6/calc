@@ -26,7 +26,7 @@
       <code>git clone https://github.com/dhaneshredd6/calc.git</code>
     </li>
     <li>Navigate to the project folder:<br />
-      <code>cd basic-calculator-app</code>
+      <code>cd calc</code>
     </li>
     <li>Open the app (e.g., open <code>index.html</code> in a browser or run the executable/script).</li>
   </ol>
