@@ -23,7 +23,7 @@
   <h2>Installation</h2>
   <ol>
     <li>Clone the repository:<br />
-      <code>git clone &lt;repository-url&gt;</code>
+      <code>git clone https://github.com/dhaneshredd6/calc.git</code>
     </li>
     <li>Navigate to the project folder:<br />
       <code>cd basic-calculator-app</code>
